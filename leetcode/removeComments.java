@@ -1,5 +1,5 @@
 package leetcode;
-
+//小米三面在线编程题：去掉代码中的注释，输出去掉注释后的代码片段
 public class removeComments{
 	    public  String removeCommentsXiaomi(String code){  
 	        StringBuilder sb = new StringBuilder();  
